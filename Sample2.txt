@@ -1,1 +1,3 @@
-this is text file to see the differences of branches
+this is text file to see the differences of branches\\\
+
+this is sample test
